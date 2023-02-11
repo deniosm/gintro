@@ -1,0 +1,7 @@
+gintro (0.9.9-1denios1) denios-updates; urgency=medium
+
+  * New version initial for denios-os
+  * Update version 0.9.8 to 0.9.9
+  * Add denios to package name
+
+ -- Denis Maslo <denios-linux@proton.me>  Thu, 09 Feb 2023 05:31:48 +0100
